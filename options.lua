@@ -1,4 +1,3 @@
-
 return {
   opt = {
     relativenumber = false,
@@ -10,5 +9,5 @@ return {
   g = {
     mapleader = " ",
     autoformat_enabled = false,
-  }
+  },
 }
